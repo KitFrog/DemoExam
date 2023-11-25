@@ -1,0 +1,78 @@
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\MVVM learn.exe
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\MVVM learn.deps.json
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\MVVM learn.runtimeconfig.json
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\MVVM learn.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\MVVM learn.pdb
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\MVVM learn.csproj.AssemblyReference.cache
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\App.g.cs
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\MVVM learn_MarkupCompile.cache
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\MVVM learn_MarkupCompile.lref
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\MVVM learn.g.resources
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\MVVM learn.GeneratedMSBuildEditorConfig.editorconfig
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\MVVM learn.AssemblyInfoInputs.cache
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\MVVM learn.AssemblyInfo.cs
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\MVVM learn.csproj.CoreCompileInputs.cache
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\MVVM learn.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\refint\MVVM learn.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\MVVM learn.pdb
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\MVVM learn.genruntimeconfig.cache
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\ref\MVVM learn.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Prism.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Prism.Wpf.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\MVVM learn.csproj.CopyComplete
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Azure.Core.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Azure.Identity.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\System.Memory.Data.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Humanizer.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\System.Text.Json.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\View\ListOfProducts.g.cs
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\View\ListOfProducts.baml
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\View\authorization.g.cs
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\View\authorization.baml
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\View\AddProduct.g.cs
+I:\Типа рабочий стол\утилиты\C#\MVVM learn\MVVM learn\obj\Debug\net6.0-windows\View\AddProduct.baml

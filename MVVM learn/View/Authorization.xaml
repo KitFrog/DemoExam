@@ -1,0 +1,53 @@
+﻿<Window x:Class="MVVM_learn.View.Authorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:MVVM_learn.ViewModels.Authorization"
+        mc:Ignorable="d"
+        Title="Авторизация" Height="300" Width="270"
+        ResizeMode="CanMinimize">
+
+    
+
+    <Window.Resources>
+        <vm:CapthaVM x:Key="CapthaViewModel"/>
+        <vm:AuthorizationVM x:Key="DbViewModel"/>
+        <BooleanToVisibilityConverter x:Key="BTV"/>
+    </Window.Resources>
+
+    <Window.Visibility>
+        <Binding Path="IsVisible" Converter="{StaticResource BTV}"
+                 Mode="TwoWay" FallbackValue="{x:Static Visibility.Visible}"/>
+    </Window.Visibility>
+
+    <Grid ShowGridLines="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="140"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <DockPanel Visibility="{Binding CaptchaVisibility}" DataContext="{StaticResource CapthaViewModel}" Grid.Row="1">
+            <StackPanel DockPanel.Dock="Top" Height="100" Width="100" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <Image Source="{Binding Captcha.Image}" Height="60"/>
+                <TextBox Text="{Binding UserInput, UpdateSourceTrigger=PropertyChanged}"/>
+                <Button Content="Проверить" Command="{Binding ValidateCommand}"/>
+            </StackPanel>
+            <StackPanel Visibility="{Binding StackPanelVisibility}" VerticalAlignment="Top" HorizontalAlignment="Right" Width="50" Height="50">
+                <TextBlock Text="Таймер:"/>
+                <TextBlock Text="{Binding SecondsRemaining}"/>
+            </StackPanel>
+        </DockPanel>
+
+        <DockPanel DataContext="{StaticResource DbViewModel}" Grid.Row="0" VerticalAlignment="Center">
+            <StackPanel DockPanel.Dock="Right" Width="200" HorizontalAlignment="Center">
+                <TextBlock Text="Логин" TextAlignment="Center"/>
+                <TextBox x:Name="Login" Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+                <TextBlock Text="Пароль" TextAlignment="Center"/>
+                <TextBox x:Name="Password" Text="{Binding Password, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+                <Button Command="{Binding PassIn}">Войти</Button>
+            </StackPanel>
+        </DockPanel>
+    </Grid>
+    
+</Window>
