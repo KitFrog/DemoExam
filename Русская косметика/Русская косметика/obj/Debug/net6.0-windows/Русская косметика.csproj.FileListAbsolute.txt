@@ -1,0 +1,67 @@
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Русская косметика.exe
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Русская косметика.deps.json
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Русская косметика.runtimeconfig.json
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Русская косметика.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Русская косметика.pdb
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Русская косметика.csproj.AssemblyReference.cache
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Views\Login.g.cs
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Русская косметика_MarkupCompile.cache
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Русская косметика_MarkupCompile.lref
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Views\Login.baml
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Русская косметика.g.resources
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Русская косметика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Русская косметика.AssemblyInfoInputs.cache
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Русская косметика.AssemblyInfo.cs
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Русская косметика.csproj.CoreCompileInputs.cache
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Русская косметика.csproj.CopyComplete
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Русская косметика.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\refint\Русская косметика.dll
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Русская косметика.pdb
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\Русская косметика.genruntimeconfig.cache
+C:\Users\KiT\Desktop\Русская косметика\Русская косметика\obj\Debug\net6.0-windows\ref\Русская косметика.dll

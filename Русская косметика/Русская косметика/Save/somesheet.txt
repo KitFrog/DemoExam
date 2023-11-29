@@ -1,0 +1,8 @@
+<TabControl>
+        <TabItem x:Name="fizPerson">
+            <TabItem.Header>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="3">Физическое лицо</TextBlock>
+                </StackPanel>
+            </TabItem.Header>
+            <TabItem.Content>
